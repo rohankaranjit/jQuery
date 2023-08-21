@@ -1,0 +1,14 @@
+.big-text{
+    font-size: 10rem;
+    color: aquamarine;
+
+}
+.margin{
+    margin-top: 100px;
+    font-family: cursive;
+}
+.medium-text{
+    font-size: larger;
+    color: blueviolet;
+    text-decoration: none;
+}
