@@ -8,3 +8,9 @@ $(document).keypress(function(event) {
 $(document).on('click',function(){
     $("h1").css("color", "purple");
 });
+
+$("h1").before("<button>Click</button>");
+$("h1").after("<button>Click</button>");
+$("h1").prepend("<button>Click</button>");
+$("h1").append("<button>Click</button>");
+button.remove();
