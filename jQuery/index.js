@@ -16,7 +16,6 @@ $("h1").append("<button>Click</button>");
 button.remove();
 
 //Adding animations
-
 $("h1").hide();
 $("h1").show();
 $("h1").toggle(); //both hide and show
